@@ -22,7 +22,7 @@ public class Pregunta10 {
             n = n + 1;
         }
         
-        while (n<=4) {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    while (n<=4) {
             n = n + 1;
         }
         
